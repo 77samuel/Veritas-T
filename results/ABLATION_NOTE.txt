@@ -1,0 +1,15 @@
+ABLATION METHODOLOGY NOTE (read before using ablation_*.csv):
+
+The 'VERITAS-T - C' ablation row is mathematically guaranteed to equal the full
+model's score. This is because C (criticality) is constant within each domain
+(Medical=1.0, Legal=0.8, Finance=0.9) in this dataset -- it is a domain-level
+weight, not a claim-level variable. Since VERITAS_claim = 1 - sum(penalty)/sum(C),
+and C is the same constant for every claim in a domain, C cancels out of the
+ratio identically regardless of what fixed value it is set to. This is NOT a
+finding that "C has no effect" -- it means C's effect can only be observed
+ACROSS domains (compare Medical vs Legal vs Finance scores), not via a
+within-domain ablation. This should be disclosed in the manuscript's ablation
+discussion rather than reported as a null result.
+
+The M and S ablations are valid: M and S both vary at the claim level within
+each domain, so removing them produces a genuine, interpretable score change.

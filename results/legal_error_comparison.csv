@@ -1,0 +1,401 @@
+raw_text,ground_truth,qwen_answer,llama_answer,qwen_correct,llama_correct
+Will Google help me if I think someone has taken and used content Ive created without my permission?,Yes,Yes,Yes,True,True
+Will Google come to a users assistance in the event of an alleged violation of such users IP rights?,Yes,Yes,Unclear,True,False
+Does Google require the consent of a third party who created content displayed in Google News in order for another person to obtain the right to use such third partys content?,Yes,Yes,Yes,True,True
+"If there is a law preventing me from taking Google to court in California, can I take them to court somewhere else?",Yes,Yes,Unclear,True,False
+"In circumstances in which, as a consequence of the law of a local jurisdiction, a person is prohibited from commencing legal action against Google in Californian courts, may such person commence legal action against Google in another jurisdiction?",Yes,Yes,Yes,True,True
+"If Im younger than 18, do I need my parents permission to use Youtube?",Yes,No,Unclear,False,False
+Do minors require parental permission in order to access Youtubes services?,Yes,No,Unclear,False,False
+Can Youtube take down content that it believes causes legal risks for it without explaining the reason for doing this?,Yes,Yes,Yes,True,True
+Is Youtube exempt from explaining the rationale for removal of content in circumstances in which Youtube is of the opinion that such removal mitigates legal risks to which it would otherwise be exposed?,Yes,No,Yes,False,True
+"Before stopping to use Youtube, can I download my Youtube-related data?",Yes,Yes,Yes,True,True
+Does Youtube permit a user to download his or her data prior to such user ceasing to use Youtube?,Yes,Yes,Unclear,True,False
+Is Youtube authorized to carry out updates to its software without requiring the permission of users? ,Yes,Yes,Unclear,True,False
+"If my main credit card doesnt work, can Amazon charge another card registered with my Amazon account?",Yes,Yes,Unclear,True,False
+"In the event a given credit card or similar means of payment of a user cannot be successfully used, is it within Amazons rights to effect payment by another means of payment provided such means of payment is affiliated with such users Amazon account?",Yes,Yes,Yes,True,True
+"If I upload content to Amazon, can Amazon then allow a third party to use that content?",Yes,No,No,False,False
+Is Amazon entitled to sublicense user-generated content that has been provided to Amazon?,Yes,No,Yes,False,True
+Does Amazon sometimes give a refund even if a customer hasnt returned the item they purchased?,Yes,Yes,Unclear,True,False
+Are there instances in which Amazon may reimburse a customer in respect of a purchase notwithstanding that the item so purchased has not been returned?,Yes,Yes,Yes,True,True
+"If I want to make a claim against Amazon, do I generally have to do this by arbitration (instead of court)?",Yes,Yes,Yes,True,True
+Is the general rule that legal action against Amazon must take place by way of arbitration proceedings?,Yes,Yes,Yes,True,True
+Does Facebook promise that it doesnt give advertisers information that lets them know exactly who I am?,Yes,No,Unclear,False,False
+Does Facebook undertake to refrain from providing advertisers with personal data that would have the effect of divulging the specific identity of a given individual?,Yes,Yes,Yes,True,True
+"Generally speaking, will Facebook tell me if it removed content that I uploaded?",Yes,No,No,False,False
+"Other than in the case of certain exceptions, does Facebook agree to inform a user with regard to the removal of such users content?",Yes,No,No,False,False
+Does Facebook sometimes have the right to ban me from Facebook without telling me that Ive been banned?,Yes,No,No,False,False
+Are there circumstances in which Facebook may suspend or terminate account access without informing the affected user of such suspension or termination?,Yes,No,Yes,False,True
+"As a Facebook user who lives in Canada, can I sue Facebook in Canada?",Yes,No,Yes,False,True
+Are Canadian Facebook users entitled to take legal action against Facebook in Canadian courts?,Yes,No,Yes,False,True
+Is it possible that Ill have to pay money for the services?,Yes,Yes,No,True,False
+Is Verizon entitled to require users to pay a fee to access the services?,Yes,No,Yes,False,True
+"If Im below the minimum age but have a US Yahoo Family Account, can I use the services?",Yes,No,Yes,False,True
+Does holding a US Yahoo Family Account permit access to the services for a person who would otherwise not have such assess due to their failure to meet the minimum age requirement?,Yes,No,Yes,False,True
+Is Verizon saying that it wont take responsibility for data thats deleted?,Yes,No,No,False,False
+Does the section limit Verizons liability with respect to the deletion of data?,Yes,Yes,No,True,False
+Can Verizon sometimes charge my credit card even after its expired?,Yes,Yes,Unclear,True,False
+Does Verizon retain the right to charge a users credit card notwithstanding the expiration of such credit card?,Yes,Yes,Yes,True,True
+Are Zoom users (rather than Zoom the company) responsible for complying with laws regarding recordings?,Yes,No,Yes,False,True
+"Do the terms hold users, as opposed to Zoom, responsible for compliance with laws governing conducting recordings?",Yes,No,Yes,False,True
+Does Zoom claim that its not responsible for what end users do on Zoom?,Yes,Yes,Yes,True,True
+Does Zoom purport to exclude liability in respect of the activities of end users?,Yes,Yes,Yes,True,True
+Does Zoom try not to take responsibility if its services are interrupted?,Yes,No,Yes,False,True
+Does Zoom claim to not be liable in connection with interruptions to its services?,Yes,No,Yes,False,True
+"If a court decides that one part of the agreement is not valid, will the rest of the agreement still be valid?",Yes,Yes,Unclear,True,False
+Can I sue Zoom in a small claims court?,Yes,No,Unclear,False,False
+Do the terms permit the commencement of legal proceedings against Zoom in small claims courts?,Yes,No,Unclear,False,False
+Are children above age 13 allowed to use Reddit?,Yes,Yes,Yes,True,True
+Does Reddit permit children above age 13 to use its services?,Yes,No,Yes,False,True
+Will these terms apply to future versions of the services?,Yes,No,Yes,False,True
+Will the application of these terms extend to versions of the services developed hereafter?,Yes,No,Yes,False,True
+Am I allowed to use Reddit to conduct a tournament?,Yes,No,No,False,False
+Does Reddit permit the use of its services for the purpose of hosting competitions or similar activities?,Yes,No,Yes,False,True
+Are there some Reddit services that I need to pay for in order to use?,Yes,Yes,Yes,True,True
+Does Reddit charge fees in respect of certain services that it provides?,Yes,Yes,Yes,True,True
+Will some of the agreement still apply even if I stop using Reddit?,Yes,Yes,Yes,True,True
+Will certain terms remain in force notwithstanding a users termination of the service?,Yes,Yes,Yes,True,True
+Does Wikimedia discourage people from relying on its content for legal or medical advice?,Yes,No,Yes,False,True
+Do the terms provide that the content shall not be used as legal or medical advice?,Yes,No,Yes,False,True
+"Am I allowed to be paid for writing a Wikipedia article, assuming I disclose whos paying me?",Yes,No,Unclear,False,False
+"Are Wikipedia contributors permitted to receive payment in respect of their contributions, provided they disclose the identity of the person or institution providing such payment?",Yes,No,No,False,False
+Is it sufficient for me to disclose in the edit summary the compensation I received for the edits I made?,Yes,No,No,False,False
+Can things I write for Wikipedia be used by other people or organizations for commercial purposes?,Yes,Yes,Unclear,True,False
+"Pursuant to the terms, can contributions to Wikipedia be put to commercial use?",Yes,Yes,No,True,False
+Does Wikimedia try to avoid taking responsibility for the safety of its services?,Yes,No,Yes,False,True
+Does Wikimedia purport to disclaim any liability for its services not being safe?,Yes,No,Yes,False,True
+Am I able to create multiple Shopify staff accounts?,Yes,No,Yes,False,True
+Does Shopify permit Shopify accountholders to create more than one staff account each?,Yes,No,Yes,False,True
+Can marketing information be considered confidential according to the terms?,Yes,Yes,Yes,True,True
+Do the terms deem certain marketing information Confidential Information?,Yes,Yes,Yes,True,True
+Does Shopify prevent me from telling other people if Im using a beta service?,Yes,Yes,Yes,True,True
+Does Shopify preclude users of Beta Services from disclosing their participation in such services?,Yes,Yes,Yes,True,True
+"By default, does eBay prohibit transfers of eBay accounts?",Yes,No,Yes,False,True
+Can eBay suspend my account if my credit card doesnt work?,Yes,No,No,False,False
+Is eBay entitled to suspend an account in the event that the credit card registered with such account is rejected?,Yes,No,No,False,False
+"If I win an eBay bid, am I actually obligated to purchase the item?",Yes,Yes,Yes,True,True
+Do winning bids on eBay entail a legal obligation on the part of the bidder to purchase the applicable item?,Yes,No,Yes,False,True
+Does eBay translate product listings even if I dont ask for that?,Yes,No,Unclear,False,False
+Does eBay translate product listings in the absence of a users or a stores request for such translation?,Yes,No,No,False,False
+Does eBay ever do robocalls?,Yes,Yes,Yes,True,True
+Does eBay reserve the right to conduct automated phonecalls?,Yes,Yes,Yes,True,True
+Can I customize the return policy for items I sell on eBay?,Yes,Yes,Unclear,True,False
+Are eBay sellers entitled to modify the return policy applicable to goods they sell on eBay?,Yes,Yes,Unclear,True,False
+Can some users opt out of the arbitration agreement?,Yes,No,Yes,False,True
+Are certain users entitled to refuse to be subject to the arbitration agreement?,Yes,No,Yes,False,True
+Could there be severe legal consequences if I sell the software to someone else?,Yes,No,Yes,False,True
+Does Microsoft caution users that unauthorized reselling of software could lead to the imposition of significant legal sanctions?,Yes,No,Yes,False,True
+Are schools allowed to hand out Microsoft FAQs and similar documents to students in class?,Yes,Yes,Yes,True,True
+Is Microsoft saying that it wont be responsible for loss of data caused by its services?,Yes,No,Yes,False,True
+Does Microsoft purport to exclude liability in connection with loss of data occurring on account of its services?,Yes,No,No,False,False
+"Is it possible that if someone hacks into my Microsoft account and Microsoft is somehow harmed, then Microsoft could sue me?",Yes,Yes,Unclear,True,False
+Are there circumstances in which a security breach of a users Microsoft account could give rise to a claim by Microsoft against such user?,Yes,No,Yes,False,True
+"When I give Microsoft feedback on its products, is Microsoft allowed to publicly display that feedback?",Yes,Yes,Yes,True,True
+Is Microsoft entitled to make publicly available user feedback that has been provided to it?,Yes,Yes,Yes,True,True
+Can I share racist content thats necessary for teaching a civics class on racism?,Yes,No,Yes,False,True
+Are users permitted to share racist content provided that such content is used in the context of educational activities relating to racism?,Yes,No,Yes,False,True
+Is Instructure trying to imply that Ill have to bear the consequences of problematic content that I download from the platform?,Yes,Yes,Yes,True,True
+Does the above imply that Instructure shall not be held responsible for problematic content that users downloaded from its services?,Yes,Yes,Yes,True,True
+Are there some changes to the terms that Instructure might not let me know about?,Yes,No,Yes,False,True
+Does Netflix keep billing me unless I tell it not to?,Yes,Yes,Yes,True,True
+"Other than in the event that a user cancels his or her Netflix subscription, are Netflix subscriptions automatically renewed and users correspondingly billed?",Yes,Yes,Yes,True,True
+Do some Netflix special offers have different terms?,Yes,Yes,Unclear,True,False
+Are certain special offers for Netflix services subject to different or additional terms?,Yes,Yes,Yes,True,True
+"If I cancel my subscription today, will I be able to access Netflix until the end of my billing cycle?",Yes,Yes,Yes,True,True
+"Following cancellation of a users subscription, does such user retain the right to access Netflix services through the last day of the applicable billing cycle?",Yes,Yes,Yes,True,True
+"If Im 17, which is the age people legally become adults where I live, can I subscribe for a Netflix account?",Yes,No,Yes,False,True
+"In jurisdictions where the age of majority is 17 years, can persons reaching such age immediately subscribe for a Netflix membership?",Yes,No,Yes,False,True
+"According to the terms, will it be possible for me to view some Netflix if my internet speed is 0.6 Mbps?",Yes,Yes,Yes,True,True
+"According to the terms, will certain Netflix content be available to persons with an internet speed of 0.6 Mbps?",Yes,No,Yes,False,True
+Is the family member who pays for a familys Netflix account meant to not share the account password with anyone else?,Yes,Yes,Yes,True,True
+"Where a Netflix accountholder enables their family members to view Netflix content, is such person expected to refrain from sharing the password for such Netflix account?",Yes,Yes,Unclear,True,False
+"If I dont want Netflix to give me customer support by remote access, is there an alternative?",Yes,Yes,Yes,True,True
+"Where a Netflix subscriber requires customer support, is there an alternative means to obtaining customer support apart from enabling Netflix to remotely access the device or devices in question?",Yes,No,Yes,False,True
+Do the foregoing terms apply to websites other than cnn.com?,Yes,Yes,Unclear,True,False
+Can I download copyrighted videos to watch at home?,Yes,Yes,No,True,False
+Are there circumstances in which users are permitted to download copyrighted video content?,Yes,Yes,No,True,False
+Can I use medical information from CNN for my general education?,Yes,No,No,False,False
+Does CNN permit using medical information provided by it for general educational purposes?,Yes,No,Yes,False,True
+Do the terms state that I could be liable to companies other than CNN itself?,Yes,Yes,Yes,True,True
+Can the indemnification liability set forth above extend to entities other than CNN?,Yes,Yes,Unclear,True,False
+"If one of the terms isnt valid, can the rest of the terms be valid?",Yes,Yes,Unclear,True,False
+Do the terms provide for the severance of any invalid terms therein?,Yes,No,Yes,False,True
+"If I think my writing has been illegally copied onto CNN, does CNN have a process for dealing with this?",Yes,Yes,Unclear,True,False
+Does CNN have in place procedures to address alleged copyright infringements pertaining to written content published in CNN products and services?,Yes,Yes,Unclear,True,False
+Are there additional terms that apply to using Xbox?,Yes,No,Unclear,False,False
+Is the use of Xbox services subject to additional terms or codes of conduct?,Yes,Yes,Unclear,True,False
+Could my university potentially monitor what I do in Microsoft programs that I use through my university account?,Yes,Yes,Unclear,True,False
+Does Microsoft sometimes enable educational institutions that provide their students with access to Microsoft services to monitor students activities on such services?,Yes,Yes,Unclear,True,False
+Might there be some services that I dont need internet access for?,Yes,No,Unclear,False,False
+Does the above imply that certain services might be available in the absence of an internet connection?,Yes,No,Unclear,False,False
+Will Microsoft always let me know about changes to the terms?,Yes,Yes,Yes,True,True
+Does Microsoft undertake to inform users of all changes to the terms?,Yes,Yes,Yes,True,True
+Could using a VPN change the prices listed for Microsoft products?,Yes,No,No,False,False
+Could the listed prices for Microsoft products and services be affected by the use of VPNs or similar technologies?,Yes,No,No,False,False
+Does Microsoft download updates for my apps even if Im not logged into them?,Yes,No,No,False,False
+Am I allowed to download New York Times articles to read later?,Yes,No,Yes,False,True
+"According to the terms, if I comment on an NYT article, can NYT significantly alter my comment?",Yes,No,No,False,False
+Do the terms permit NYT to make significant changes to comments provided by users?,Yes,No,Yes,False,True
+Do the terms prohibit scraping content from NYT services?,Yes,Yes,Yes,True,True
+Do these terms suggest that NYT takes zero responsibility for the accuracy of its articles?,Yes,No,Yes,False,True
+Do the terms imply that NYT makes no assurances whatsoever with respect to the accuracy of content that it makes available?,Yes,No,Yes,False,True
+"If Im 17, do I need my parents consent to visit NYtimes.com?",Yes,No,Yes,False,True
+Does NYT require parental consent in respect of persons aged 17 who wish to access NYT services?,Yes,No,Yes,False,True
+Do these terms refer to other terms that will apply to me if I use Twitch?,Yes,Yes,Yes,True,True
+Do these terms incorporate by reference additional terms that will govern the use of Twitch services?,Yes,Yes,Yes,True,True
+Does Twitch prohibit the use of its services by persons aged 12 years irrespective of whether such persons obtained parental consent?,Yes,No,Yes,False,True
+Can I potentially obtain a Twitch account through a third party?,Yes,No,No,False,False
+Does Twitch allow certain third parties to facilitate the acquisition of subscriptions for Twitch services?,Yes,No,Yes,False,True
+Can Twitch continue using my content for advertising and marketing after Ive deleted that content?,Yes,Yes,No,True,False
+Does Twitch retain the right to continue to use user-generated content for advertising and marketing activities following the deletion of such content by the relevant user?,Yes,No,Unclear,False,False
+Can I use Twitch for certain political activities?,Yes,No,Yes,False,True
+Does Twitch allow for the use of its services in connection with certain political activities?,Yes,No,Yes,False,True
+Does Twitch have the right to prevent me from using its services in the future because of technical issues that Im experiencing at the moment?,Yes,Yes,Unclear,True,False
+Do the terms grant Twitch the right to prevent future use of its services by a user who cannot currently access the services on account of technical difficulties?,Yes,Yes,Yes,True,True
+Do the terms preclude users from livestreaming Soundtracks on third party services such as Youtube?,Yes,No,Yes,False,True
+Do these terms mainly relate to Apples websites?,Yes,Yes,Yes,True,True
+Is the primary scope of application of the foregoing terms Apples websites?,Yes,Yes,Unclear,True,False
+Are there cases where I would be held responsible for someone breaking into my Apple account?,Yes,Yes,Yes,True,True
+Are there circumstances in which an Apple accountholder may incur liability due to another person accessing such account without authorization?,Yes,Yes,Yes,True,True
+Do the terms imply that a users sole recourse against Apple in the event such user is dissatisfied with Apples website is to cease using the website?,Yes,Yes,Yes,True,True
+Can Apple disclose personal information about me if asked to by the government?,Yes,Yes,Yes,True,True
+Do the terms entitle Apple to disclose personal information pertaining to users in response to a request by government agencies?,Yes,Yes,Yes,True,True
+Are there different rules for Americans and Europeans regarding where they can sue Apple?,Yes,Yes,Yes,True,True
+Do the terms distinguish between US persons and European persons with regard to the applicable jurisdiction for adjudicating disputes between the parties?,Yes,Yes,Yes,True,True
+Do Instagram and Facebook share user data with each other?,Yes,No,Yes,False,True
+Does data sharing (including sharing of user data) take place between and among Instagram and Facebook?,Yes,Yes,Unclear,True,False
+Does Instagram tailor advertising to particular users?,Yes,No,Yes,False,True
+"If I delete my Instagram account, does Instagram lose its right to host content that I uploaded?",Yes,No,Yes,False,True
+Is Instagrams license to a users content terminated upon such user terminating their Instagram account?,Yes,No,Yes,False,True
+Can Instagram sometimes change my username?,Yes,Yes,Yes,True,True
+Is Instagram entitled to modify an Instagram users username in certain circumstances?,Yes,Yes,Yes,True,True
+"If someone else is using content I posted on Instagram, could this prevent the content from being deleted?",Yes,No,Yes,False,True
+Can the use of a users content by another user provide grounds for precluding the deletion of such content?,Yes,No,Yes,False,True
+Do the laws of different countries apply to different Instagram users regarding the terms?,Yes,Yes,No,True,False
+Are there some Disney products that I cant access anonymously?,Yes,Yes,Unclear,True,False
+Are there certain Disney products or services access to which requires the provision of personal information?,Yes,Yes,Unclear,True,False
+"If Disney gives me permission in writing, can I display Disney content on my website?",Yes,Yes,No,True,False
+Is a user entitled to display Disney Products on a third party website if Disney explicitly consents thereto?,Yes,Yes,No,True,False
+Are there any potential exceptions which would allow me to copy a Disney product?,Yes,No,No,False,False
+Do there exist any circumstances in which it may be permissible to copy Disney Products?,Yes,No,No,False,False
+Does Google give up any of its IP rights?,No,No,Yes,True,False
+"Pursuant to the terms, does Google relinquish any intellectual property rights or claims in, to, or in connection with, the services?",No,No,Unclear,True,False
+Will Google be responsible for something bad that happens to me because I failed to keep my Google account secure?,No,No,Unclear,True,False
+Will Google be held liable for the adverse consequences of a users failure to take adequate security measures?,No,No,Unclear,True,False
+Can I use content featured in an article on Google News without getting permission from the person who created that content?,No,No,Yes,True,False
+Does Google charge users money for the software?,No,No,Unclear,True,False
+Is Google entitled to levy fees or other charges in connection with the license hereunder?,No,No,Unclear,True,False
+Does Google 100% guarantee that its services will meet the standards in the warranty?,No,No,Yes,True,False
+Does Google undertake to ensure that in all cases the services it provides shall satisfy the requirements set forth in the warranty?,No,No,Unclear,True,False
+Will Google definitely ban me from using its services if I breached the terms only once and in some very minor way?,No,No,Yes,True,False
+Is Google likely to suspend or otherwise restrict a users access to Googles services in the event of a single minor breach by such user?,No,No,Yes,True,False
+Can I use a program to automatically scrape video data from Youtube?,No,No,Yes,True,False
+Are users permitted to collect information in connection with content accessible on Youtube by way of automated software or other similar processes?,No,No,Yes,True,False
+Am I allowed to stream videos on Youtube for my business?,No,No,Yes,True,False
+Does Youtube permit live broadcasts for the purpose of for-profit enterprises?,No,No,Yes,True,False
+Are other users allowed to use content I uploaded to Youtube outside of Youtube?,No,No,Yes,True,False
+Does the content license granted by users to Youtube extend to allowing other users to access such content other than within the Youtube environment?,No,No,Yes,True,False
+Does Youtube need my permission each time it updates its software?,No,No,Yes,True,False
+Does Youtube need to compensate me if my business loses money because a video of mine was temporarily unavailable on Youtube?,No,No,Yes,True,False
+Can Youtube incur liability in connection with a business financial losses occasioned by the temporary unavailability of such business content on Youtube?,No,No,Yes,True,False
+Does Youtube take responsibility for links to third party websites on Youtube?,No,No,Yes,True,False
+Does Youtube undertake to provide certain assurances in connection with third party websites links to which are contained in Youtube?,No,No,Yes,True,False
+"Generally speaking, can I sue Youtube in New York?",No,No,No,True,True
+Does a user have a prima facie right to commence legal action against Youtube in the State of New York?,No,No,Yes,True,False
+Am I allowed to copy long lists of Amazon listings and use these on my own website?,No,No,Yes,True,False
+Are users permitted to replicate listings of Amazon products and use these on websites or platforms other than Amazon?,No,No,No,True,True
+Am I allowed to write a review under an alias?,No,No,Yes,True,False
+Does a user have the right to post content purporting to be created by someone other than such user?,No,No,No,True,True
+Does Amazon promise that the price displayed for an item is the actual price of that item?,No,No,Yes,True,False
+Does Amazon purport to claim that the price listed in respect of each item reflects the amount Amazon shall charge for such item?,No,No,Yes,True,False
+Does Amazon take responsibility for items sold by third parties through Amazon?,No,No,Yes,True,False
+Can Amazon become liable in connection with offerings made by third parties?,No,No,Yes,True,False
+Does Amazon agree to ensure that its services are available at all times?,No,No,Yes,True,False
+Does Amazon provide any undertaking with respect to the availability of the services that it provides?,No,No,Yes,True,False
+Am I allowed to use source code from Amazons software in my own software?,No,No,Yes,True,False
+"Does Amazon permit the replication of, or other unauthorized use of, the source code of its software?",No,No,Yes,True,False
+Does Facebook require users to pay money for its services?,No,No,Yes,True,False
+Does Facebook levy fees or charges in connection with the services it provides to users?,No,No,Yes,True,False
+Does Facebook use only AI to discover and remove harmful content?,No,No,No,True,True
+Are automated systems the sole means by which Facebook identifies and removes problematic content?,No,No,Yes,True,False
+Can I use the timeline for promoting my business?,No,No,Unclear,True,False
+Are users permitted to utilize the timeline for commercial purposes?,No,No,Yes,True,False
+"When I delete content from Facebook, will Facebook ensure that that content is deleted everywhere?",No,No,No,True,True
+"Upon the deletion of content by a user, does Facebook undertake that such content shall no longer exist in any Facebook product or service?",No,No,Yes,True,False
+Does Facebook take responsibility for racist content posted on Facebook?,No,No,Yes,True,False
+"Can Facebook incur liability in connection with racist materials or activities uploaded to, or taking place on, the platform?",No,Yes,Yes,False,False
+"Except for after I die, can I give someone else control of my Facebook account?",No,No,No,True,True
+"Other than upon a users death, is a user entitled to grant another person or persons access rights with respect to such users Facebook account?",No,No,No,True,True
+Can I give someone control over my Verizon account when I die?,No,No,Yes,True,False
+Is a holder of a Verizon account entitled to grant rights to or in such account to another person or persons upon the holders death?,No,No,Yes,True,False
+Does Verizon own all of the content that it hosts?,No,No,Yes,True,False
+Are all intellectual property rights to the content contained in services provided by Verizon owned by Verizon?,No,No,Yes,True,False
+Does Verizon need to tell me if it makes changes to the services?,No,No,Yes,True,False
+Is Verizon obligated to provide users with notice in connection with changes to the services?,No,No,Yes,True,False
+Does Verizon agree to provide customer support for its services?,No,No,Yes,True,False
+Does Verizon guarantee a certain minimum level of product support to customers?,No,No,Yes,True,False
+Will Verizon tell me about every change to these terms?,No,No,Yes,True,False
+Is Verizon obligated to inform users of every modification to the terms of service?,No,No,Yes,True,False
+"As I live in Texas, will Texas law apply to my relationship with Verizon?",No,No,Yes,True,False
+Will this agreement be governed by Texas law in the case of persons residing in Texas?,No,No,Yes,True,False
+"According to the terms, can I create a service that competes with Zoom?",No,No,Yes,True,False
+"Pursuant to the above, are users permitted to develop services that are competitive with the services offered by Zoom?",No,No,Yes,True,False
+"Except for in school, can people below age 16 use Zoom?",No,No,Yes,True,False
+"Apart from in the context of school subscriptions, are persons below 16 years of age permitted to use Zoom?",No,No,Yes,True,False
+"If I cancel my subscription, will I be refunded for amounts Ive already paid?",No,No,Yes,True,False
+"Upon cancellation, are users entitled to reimbursement in respect of amounts previously paid?",No,No,Yes,True,False
+"Under the license, am I permitted to use Zoom in a life-and-death situation in a hospital?",No,No,Yes,True,False
+"Pursuant to the terms hereunder, does the Zoom license permit using the licensed services in critical or emergency medical contexts?",No,No,Yes,True,False
+"In the event that certain provisions of the agreement are deemed invalid by a judicial decision, will the remaining provisions also be rendered invalid?",No,No,Yes,True,False
+"Once Im able to sue Zoom, can I wait two years before starting the process?",No,No,No,True,True
+"Upon a person obtaining the right to take legal action against Zoom, can such person commence that legal action two years after obtaining the right to do so?",No,No,Yes,True,False
+"If I give Reddit a great commercial idea, can I demand payment for it?",No,No,Yes,True,False
+Are users entitled to compensation in connection with proposals they may provide to Reddit?,No,No,Unclear,True,False
+Can I get paid to moderate a subreddit?,No,No,Yes,True,False
+Are moderators of subreddits entitled to payment or other compensation for the services they provide?,No,No,Yes,True,False
+"According to the terms of service, does Reddit control the content that it hosts?",No,No,Yes,True,False
+"Under the terms of service, is Reddit deemed to exercise control over content contained in its services?",No,No,Yes,True,False
+"If I want to sue Reddit, do I have to go through arbitration?",No,No,Yes,True,False
+Do the terms require that disputes be resolved by way of arbitration?,No,No,Unclear,True,False
+Does Reddit need to give a reason why it removed me from being a moderator?,No,No,Yes,True,False
+Is Reddit obligated to provide reasons with respect to actions resulting in a person losing their moderator role or privileges?,No,No,Yes,True,False
+Does the Wikimedia Foundation help to edit Wikipedia articles?,No,No,Unclear,True,False
+Does the Wikimedia Foundation perform any editorial function in respect of articles on Wikipedia?,No,No,Yes,True,False
+Are contributors who received compensation obligated to make disclosures in their user page?,No,No,Yes,True,False
+Is there one specific license that applies to all pictures and videos I contribute to Wikipedia?,No,No,No,True,True
+Do the terms provide for one specific license that governs the rights in respect of all images contributed to Wikipedia?,No,No,No,True,True
+Does Wikipedia promise to address cases of fraud?,No,No,Unclear,True,False
+Does Wikipedia undertake to take action with respect to instances of fraud?,No,No,Unclear,True,False
+Does Wikimedia often get involved in policy decisions?,No,No,Yes,True,False
+Does Wikimedia regularly intervene in decisions concerning policy and similar matters?,No,No,Unclear,True,False
+"If I live in Illinois, can I sue Wikimedia in an Illinois court?",No,No,Yes,True,False
+Can residents of Illinois take legal action against Wikipedia in Illinois courts?,No,No,Yes,True,False
+"If people legally become adults at age 20 in my country, can I use Shopify when Im only 18?",No,No,Yes,True,False
+Are persons aged 18 years permitted to access Shopifys services in jurisdictions where the age of majority is 20 years?,No,No,Yes,True,False
+Does Shopify encrypt all data I provide it?,No,No,Yes,True,False
+Does Shopify agree to ensure the encryption of all data provided to it?,No,No,No,True,True
+Does Shopify review content to check if its harmful before its uploaded?,No,Yes,Yes,False,False
+Does Shopify review content prior to its being made publicly available in order to ensure that it is not harmful?,No,No,No,True,True
+"By uploading content on Shopify services, do I give up my IP rights in that content?",No,No,Yes,True,False
+Does Shopify purport to obtain IP rights in content provided to Shopify services?,No,No,Yes,True,False
+Does Shopify provide technical support for theme store designs?,No,No,Unclear,True,False
+Does Shopify agree to provide certain technical support in connection with designs made available through the Theme Store?,No,No,Unclear,True,False
+Do the fees include tax?,No,No,Yes,True,False
+Are the fees payable inclusive of all applicable taxes?,No,No,Yes,True,False
+Can I generally get a refund when I cancel my account?,No,No,Yes,True,False
+Does Shopify generally issue refunds in the event of cancellation of an account?,No,No,Yes,True,False
+Can I simply give away my eBay account to someone else?,No,No,Unclear,True,False
+"According to the agreement, does it ever take longer than 24 hours for a listing to be searchable?",No,No,Unclear,True,False
+"Pursuant to the agreement, are there circumstances in which a listing may become searchable following a period greater than 24 hours after the creation of such listing?",No,Yes,Unclear,False,False
+Does eBay promise that the product data it provides will be somewhat accurate?,No,No,Yes,True,False
+Does eBay guarantee a certain level of accuracy with respect to the product data it provides?,No,No,No,True,True
+Does eBay decide who has to pay the costs of going to arbitration?,No,No,Yes,True,False
+Is eBay entitled to decide which party pays the costs of arbitration?,No,Yes,Yes,False,False
+Can I sell the software I download to someone else?,No,No,Yes,True,False
+Are end users generally permitted to on-sell the software that they download?,No,No,Yes,True,False
+Are schools prohibited from providing students in class with Microsoft FAQs and similar documents?,No,No,Yes,True,False
+Can I use the Microsoft forums to run a survey?,No,No,Yes,True,False
+Does Microsoft permit using the Communication Services to conduct surveys?,No,No,Yes,True,False
+Does Microsoft agree to oversee how its chat groups and similar services are used?,No,No,Yes,True,False
+Does Microsoft provide assurances that it oversees the operation of chat groups and similar services that it provides?,No,No,Yes,True,False
+Will I get paid for providing high-quality feedback to Microsoft about its products?,No,No,No,True,True
+Does Microsoft pay users in order to provide it with high-quality feedback relating to its services?,No,No,Yes,True,False
+"Do the terms say that if I send Microsoft commercial ideas (without Microsoft asking for this), then Microsoft might make a legal claim against me?",No,No,Unclear,True,False
+Do the terms provide for the imposition of legal sanctions in connection with sending Microsoft unsolicited commercial ideas?,No,No,Unclear,True,False
+Can Instructure back up my data without asking me?,No,No,Yes,True,False
+Does Instructure have the right to perform backups of user data without requesting user permission?,No,No,Yes,True,False
+Am I able to anonymously contribute content?,No,No,No,True,True
+Do users have the right to anonymously contribute content to the platform?,No,No,Yes,True,False
+Am I allowed to scrape data on the services for a research project Im doing?,No,No,Yes,True,False
+Does Instructure permit the scraping of its data for academic or other research purposes?,No,No,Yes,True,False
+Does Instructure agree to regularly review content uploaded to its platforms?,No,No,Unclear,True,False
+Does Instructure provide an undertaking that it will review Content on a regular basis?,No,No,Unclear,True,False
+"If I think that some content on the platform doesnt comply with the terms, is it enough that I describe the content, provide a link and provide my full personal details?",No,No,Yes,True,False
+"In the event a user suspects that certain content is in breach of the applicable guidelines and wishes to report such content, is it sufficient that such user describe the content, provide a link to the content and provide their personal and contact details?",No,No,No,True,True
+Are there any limits on Instructures right to close my account with them?,No,Yes,Yes,False,False
+Does this section in any way constrain Instructures right to terminate a users access to the services?,No,Yes,Yes,False,False
+Do these paragraphs state where Im able to sue Instructure?,No,No,Yes,True,False
+Do the AUP Guidelines stipulate a specific forum for adjudicating disputes between the parties?,No,No,Yes,True,False
+Will Instructure inform users of all changes to the AUP Guidelines?,No,No,Yes,True,False
+"If my parents (who I live with) have a Netflix subscription, can I still get a free trial?",No,No,No,True,True
+"Are persons living with their parents, where such parents are Netflix subscribers, potentially eligible for a free Netflix trial?",No,No,Yes,True,False
+Is the length of the billing cycle period the same for all Netflix subscribers?,No,No,Yes,True,False
+Are all Netflix users subject to billing cycles of uniform length (across different users)?,No,No,Unclear,True,False
+"If I signed up for Netflix in Country A, can I do 90% of my Netflix watching in Country B?",No,No,Yes,True,False
+Are Netflix users permitted to watch the overwhelming majority of Netflix content they consume in a country other than that in which they subscribed for Netflix services?,No,No,Yes,True,False
+Is cnn.com the only site which the terms apply to?,No,No,Yes,True,False
+Is it OK for me to use bots to visit webpages I contribute to so they look more popular?,No,No,Yes,True,False
+Does CNN permit using bots to artificially increase page visits for certain content?,No,No,Yes,True,False
+Can users retract rights they give to CNN for content they created?,No,No,No,True,True
+Do the terms permit users to revoke rights granted to CNN in connection with content created by such users?,No,No,Unclear,True,False
+"According to the terms, does CNN create third party content?",No,No,Yes,True,False
+Do the terms imply that CNN is engaged in creating third party content?,No,No,Yes,True,False
+Do all disputes with CNN go to arbitration?,No,No,Yes,True,False
+Are all disputes between the parties adjudicated by way of arbitration?,No,No,Yes,True,False
+Is the age that a person must be to use Microsoft services without parental permission the same in all countries?,No,No,Yes,True,False
+Do the terms stipulate a specific age that applies across all jurisdictions above which users do not require parental consent in order to access Microsoft services?,No,No,Yes,True,False
+"If I move my Microsoft account from one country to another, will my programs and services always transfer across?",No,No,No,True,True
+"Upon a user transferring an account between countries, does Microsoft ensure that all subscriptions and services associated with such account shall remain available without additional payment?",No,No,Yes,True,False
+"If for some reason Microsoft needs to pay me, will Microsoft take care of the relevant taxes?",No,No,Yes,True,False
+Does Microsoft agree to pay any applicable taxes arising due to payments that it is required to make to users?,No,No,Yes,True,False
+Is a user required to be logged in to an application in order for Microsoft to download updates for such application?,No,No,Yes,True,False
+"As a general rule, can I use Bing and MSN content for my business?",No,No,Yes,True,False
+Do the terms generally permit using Bing and MSN content for business activities?,No,No,Yes,True,False
+Does the New York Times in all cases prohibit downloading content that it hosts?,No,No,Yes,True,False
+Does NYT check all user content before its uploaded and posted?,No,No,Yes,True,False
+Does NYT review all user-generated content prior to such content being made publicly available?,No,No,Yes,True,False
+Am I allowed to scrape articles from NYT?,No,No,Yes,True,False
+Can I provide my NYT username and password to my employer?,No,No,Unclear,True,False
+Are subscribers permitted to provide their NYT username and password to their respective employers?,No,No,Yes,True,False
+Can NYT ever charge me without my consent?,No,No,Yes,True,False
+Are there instances in which NYT may charge a user for services to which such user has not consented?,No,Yes,No,False,True
+Can I sue NYT 18 months after I became able to?,No,No,Yes,True,False
+Do the terms permit users to take legal action against NYT 18 months after such users obtain the legal right to do so?,No,No,Yes,True,False
+Can Californians sue NYT in California?,No,Yes,Yes,False,False
+Do the terms permit Californians to commence legal action against NYT in California?,No,No,Yes,True,False
+Does Twitch let 12-year-olds use its services if their parents gave explicit consent?,No,No,Yes,True,False
+Does Twitch need my active consent for changes to the terms to apply to me?,No,No,Unclear,True,False
+Do the terms require a users explicit consent for changes to the terms to enter into effect in respect of such user?,No,No,Unclear,True,False
+Can I use a VPN that shows a different IP address when uploading content to Twitch?,No,Yes,No,False,True
+Does Twitch permit users to upload content to Twitch whilst using VPNs that alter the IP address displayed for such users?,No,No,No,True,True
+Does streaming Twitch Sings require me to install a special app (in addition to the ordinary Twitch app)?,No,No,Unclear,True,False
+Does the streaming of Twitch Sings activities require users to install software in addition to the software required for other Twitch services?,No,No,Unclear,True,False
+Am I allowed to livestream Twitch Soundtracks on Youtube?,No,No,No,True,True
+Am I allowed to manually scrape information from Apples website?,No,No,Yes,True,False
+Do Apples terms of use permit manual scraping of its website?,No,No,Yes,True,False
+Does Apple say here the specific age that users must be?,No,No,Yes,True,False
+Do the foregoing terms state a specific age below which persons may not use certain services?,No,No,Yes,True,False
+Does Apple promise that what I download from its website wont have viruses?,No,No,Yes,True,False
+Does Apple represent that content made available on its website shall not contain computer viruses?,No,No,Unclear,True,False
+"According to the terms, if Im unhappy with Apples website is there anything I can do other than stop using the website?",No,No,No,True,True
+Does Apple need to give me notice before it bars me from its website?,No,No,Yes,True,False
+Is Apple required to provide advance notice to users before preventing such persons from accessing its website?,No,No,Yes,True,False
+Do Apple sites in all countries have the same features?,No,No,Yes,True,False
+Are the features of Apple websites uniform across various geographic regions?,No,No,Yes,True,False
+Does Instagram refrain from providing personalized advertising to its users?,No,No,Yes,True,False
+Do I need to use my real name to open an Instagram account?,No,No,Unclear,True,False
+Does Instagram require prospective users to provide their legal name upon registering a new account?,No,No,Yes,True,False
+Am I allowed to sell my Instagram account to an entertainment company?,No,No,No,True,True
+Is an Instagram user permitted to sell his or her Instagram account to a business in the entertainment industry?,No,No,No,True,True
+Does Instagram become the owner of content that I post on Instagram?,No,No,Yes,True,False
+Does Instagram acquire ownership rights in or to content posted by users on the Instagram platform?,No,No,Yes,True,False
+"According to the terms, 30 days after Ive asked to delete content, can other users see that content?",No,No,Yes,True,False
+"Do the terms imply that, 30 days following a users request to delete content, other users may be able to view such content?",No,No,No,True,True
+Do the terms impose the same governing law in respect of all consumers who are subject to the terms?,No,No,No,True,True
+Will major changes to the terms apply as soon as theyre made?,No,No,Yes,True,False
+Will significant changes to the terms take effect immediately?,No,No,Yes,True,False
+"According to the terms, will Disney by default send me push notifications?",No,No,Yes,True,False
+Do the terms suggest that Disney may send push notifications prior to users providing consent to such notifications?,No,No,No,True,True
+Do I need to consent to each update of Disney software that Ive downloaded?,No,No,No,True,True
+Does Disney require user consent in respect of each specific software update to a users Disney Products?,No,No,No,True,True
+Can I get a refund for a virtual item that I purchased?,No,No,Unclear,True,False
+Are users entitled to refunds in connection with the purchase of virtual items?,No,No,Yes,True,False
+Do I have the right to return within 30 days any physical product that I bought from Disney?,No,No,No,True,True
+Does Disney allow for the return of all physical products within 30 days of when such product was purchased?,No,No,Unclear,True,False
+Do these general terms override the specific terms for a Disney competition?,No,No,Unclear,True,False
+Do the foregoing terms applicable to all Disney Products prevail where such terms conflict with the terms pertaining to a specific competition organized by Disney?,No,No,Unclear,True,False
+Do the terms say who the actual arbitrator will be?,No,No,Yes,True,False
+Does the above specify the identity of the arbitrator?,No,No,Yes,True,False
+Is Google allowed to create new content based on the content I create and give it?,Yes,No,No,False,False
+Is it within Googles legal rights to create derivative works consisting of modifications of user-generated content?,Yes,No,No,False,False
+Will Google always allow me to transfer my content out of my Google account?,No,No,Unclear,True,False
+Does Google maintain a policy pursuant to which users may in all circumstances export their Google data upon Google ceasing to offer certain services?,No,No,Unclear,True,False

@@ -1,0 +1,5 @@
+config,mean_score,delta_vs_full
+VERITAS-T (full: F+C+S+M),0.8985,0.0
+"VERITAS-T - M (variance removed, M=0)",0.7203,-0.1782
+VERITAS-T - C (criticality fixed at 0.5),0.8985,0.0
+VERITAS-T - S (severity fixed at 0.5),0.9292,0.0307
