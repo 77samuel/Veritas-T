@@ -11,6 +11,7 @@ VERITAS-T extends the original VERITAS framework with a temporal decay term, so 
 - **Medical** — ACI-Bench (clinical note hallucination labels)
 - **Legal** — LegalBench (contract Q&A, Yes/No)
 - **Finance** — FinanceBench (SEC filing Q&A with hallucination labels)
+- **Note on `finance_data.csv`:** This file is not included in the repository due to size constraints. It is derived from the FinanceBench dataset. To reproduce, obtain the FinanceBench Q&A data from its original source and place it at `data/finance_data.csv` with columns: `query`, `context`, `answer`, `ground_truth_label`.
 
 across two independently run language models (Qwen2.5-7B-Instruct, Llama-3-8B-Instruct), totaling 2,796 evaluated claims with K=50 sampling per claim.
 
